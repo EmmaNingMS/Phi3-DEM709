@@ -1,7 +1,7 @@
 # Running Phi3-mini using Olive and ONNX Runtime for efficient inferencing on mobile and web platforms.
 This repo is to share all the materials for supporting Demo session DEM709 in Microsoft Build 2024.
 
-- Step1 Getting optimized models for mobile and web platforms  
+- Step1 Getting optimized models for mobile and web platforms
 [Optimizing Phi-3 for chosen hardware with Olive​](https://github.com/microsoft/Olive/tree/main/examples/phi3)
 
 - Step2 Running phi-3 on Android phone
