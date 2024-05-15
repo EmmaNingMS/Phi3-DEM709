@@ -11,6 +11,7 @@ This repo is to share all the materials for supporting Demo session DEM709 in Mi
 [Web chat APP with Phi-3 and ONNX Runtime Web](https://github.com/microsoft/onnxruntime-inference-examples/tree/gs/chat/js/chat)​
 
 ## Learn more
+- [Olive](https://microsoft.github.io/Olive/index.html)
 - [ONNX Runtime](https://onnxruntime.ai/) ​
 - [ONNX Runtime GenAI](https://github.com/microsoft/onnxruntime-genai)
 - [Azure Machine learning for Edge](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/deploy-ai-ml-azure-stack-edge)​
